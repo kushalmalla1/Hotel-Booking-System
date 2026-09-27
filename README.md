@@ -71,11 +71,11 @@ java -jar target/hotel-booking-system-jar-with-dependencies.jar
 
 ## Screenshots
 
-&#x20;  *!\[Menu](screenshots/menu.png)*
+   ![Menu](screenshots/menu.png)
 
-&#x20;  *!\[Booking created](screenshots/booking.png)*
+   ![Booking created](screenshots/booking.png)
 
-&#x20;  *!\[Occupancy report](screenshots/report.png)*
+   ![Occupancy report](screenshots/report.png)
 
 ## Known Limitations
 
